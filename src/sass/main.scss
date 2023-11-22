@@ -1,6 +1,6 @@
-@import 'base/root';
-@import 'base/reset';
-@import 'base/global';
-@import 'base/utilities.scss';
-@import 'components/ratings';
-@import 'components/quotes';
+@use 'base/root';
+@use 'base/reset';
+@use 'base/global';
+@use 'base/utilities.scss';
+@use 'components/ratings';
+@use 'components/quotes';

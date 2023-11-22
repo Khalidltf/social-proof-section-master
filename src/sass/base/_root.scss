@@ -6,11 +6,14 @@
   --clr-neutral-light: hsl(300, 24%, 96%);
   --clr-neutral-white: hsl(0, 0%, 100%);
 
-  --ff-primary: "League Spartan", sans-serif;
+  --ff-primary: "spartan", sans-serif;
+
 
   --fs-400: 0.8125rem;
   --fs-500: 0.9625rem;
   --fs-900: 2rem;
+
+  --br: .5rem;
 
   @media (min-width: 50em) {
     --fs-900: 3rem;
